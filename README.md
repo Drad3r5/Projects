@@ -1,2 +1,6 @@
-# Projects
-This is where all of my Projects listed
+## Projects
+
+```plain
+This is where all the the project files go.
+(Python, Lisp, Nim Projects)
+```
